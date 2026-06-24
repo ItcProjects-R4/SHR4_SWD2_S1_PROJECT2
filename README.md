@@ -30,19 +30,21 @@ An advanced, fully responsive E-commerce platform built as a graduation project.
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="./screenshots/screen1.PNG" alt="Screenshot 1" width="45%" />
-  <img src="./screenshots/screen2.PNG" alt="Screenshot 2" width="45%" />
+  <img src="./screenshots/Home.PNG" alt="Screenshot 1" width="45%" />
+  <img src="./screenshots/offers.PNG" alt="Screenshot 2" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/screen3.PNG" alt="Screenshot 3" width="45%" />
-  <img src="./screenshots/screen4.PNG" alt="Screenshot 4" width="45%" />
+  <img src="./screenshots/Account.PNG" alt="Screenshot 3" width="45%" />
+  <img src="./screenshots/checkout.PNG" alt="Screenshot 4" width="45%" />
 </p>
 
 <p align="center">
-  <img src="./screenshots/screen5.PNG" alt="Screenshot 5" width="60%" />
+  <img src="./screenshots/favourite.PNG" alt="Screenshot 5" width="45%" />
+  <img src="./screenshots/shop page.PNG" alt="Screenshot 6" width="45%" />
 </p>
 
+---
 
 ## 🛠️ التقنيات المستخدمة (Tech Stack)
 
