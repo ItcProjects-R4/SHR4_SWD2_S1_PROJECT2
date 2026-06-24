@@ -27,6 +27,22 @@ An advanced, fully responsive E-commerce platform built as a graduation project.
 * **Advanced State Management:** إدارة تفاعلية متطورة للسلة **(Cart)** والمفضلة **(Favorites)** تضمن تحديث البيانات فورياً وبسلاسة أمام العميل دون أي تأخير أو إعادة تحميل للصفحة.
 
 ---
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/screen1.png" alt="Screenshot 1" width="45%" />
+  <img src="./screenshots/screen2.png" alt="Screenshot 2" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/screen3.png" alt="Screenshot 3" width="45%" />
+  <img src="./screenshots/screen4.png" alt="Screenshot 4" width="45%" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/screen5.png" alt="Screenshot 5" width="60%" />
+</p>
+
 
 ## 🛠️ التقنيات المستخدمة (Tech Stack)
 
