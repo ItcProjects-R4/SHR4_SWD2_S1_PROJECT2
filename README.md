@@ -142,6 +142,11 @@ npm run dev
 * 🌐 **رابط النسخة المباشرة (Live Demo):**
   [LuxeCart Store](https://luxecart-five.vercel.app/)
 
+  ## 📂 ملفات المشروع والتوثيق (Project Documentation)
+
+* 📄 **كتاب التوثيق الكامل (Project Documentation):** [اضغط هنا لفتح ملف الـ PDF](./docs/LuxeCart_Documentation.pdf)
+* 📊 **العرض التقديمي (Presentation Slides):** [اضغط هنا لفتح ملف الـ PPTX](./docs/LuxeCart_Presentation.pptx)
+
 * 🎥 **رابط فيديو الشرح الكامل:**
   *سيتم إضافة الرابط هنا فور تسجيل الفيديو.*
 
