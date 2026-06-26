@@ -140,7 +140,7 @@ npm run dev
   [اضغط هنا](https://github.com/ItcProjects-R4/SHR4_SWD2_S1_PROJECT2)
 
 * 🌐 **رابط النسخة المباشرة (Live Demo):**
-  [LuxeCart Store](https://luxe-cart-store.netlify.app)
+  [LuxeCart Store](https://luxecart-five.vercel.app/)
 
 * 🎥 **رابط فيديو الشرح الكامل:**
   *سيتم إضافة الرابط هنا فور تسجيل الفيديو.*
